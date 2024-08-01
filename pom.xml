@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ruoyi</groupId>
-    <artifactId>ruoyi</artifactId>
+    <artifactId>aesthetic_medicline_system</artifactId>
     <version>3.6.4</version>
 
     <name>ruoyi</name>
@@ -233,6 +233,10 @@
         <module>ruoyi-modules</module>
         <module>ruoyi-api</module>
         <module>ruoyi-common</module>
+        <module>ruoyi-modules/ruoyi-order</module>
+        <module>ruoyi-modules/ruoyi-forum</module>
+        <module>ruoyi-modules/ruoyi-message</module>
+        <module>ruoyi-modules/ruoyi-mall</module>
     </modules>
     <packaging>pom</packaging>
 
